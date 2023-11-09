@@ -6,13 +6,13 @@ function F1(){
 }
 export function Home()
 {
-return <div class="vas"><p>Valluru Sai Manikanta Revanth, I am an enthusiastic and dedicated individual committed to continuous personal and professional growth. With a passion for Developer, I strive to create meaningful and impactful work. My self-portfolio is a reflection of my journey, showcasing my skills, experiences, and creative endeavors.</p></div>
+return <div class="vas"><p>PRUDHVEESH CHOWDHARY SURYADEVARA, I am an enthusiastic and dedicated individual committed to continuous personal and professional growth. With a passion for Developer, I strive to create meaningful and impactful work. My self-portfolio is a reflection of my journey, showcasing my skills, experiences, and creative endeavors.</p></div>
 }
 
 
 export function About()
 {
-return <div class="vas"><p>Valluru Sai Manikanta Revanth, currently pursuing a Bachelor of Technology (B.Tech) at VIT-AP University, is a diligent scholar on a path of continuous learning and growth. His academic journey has been marked by excellence, having completed his intermediate education at Narayana Junior College, and earlier, his secondary education at Narayana e-Techno Schools. In these endeavors, Revanth consistently demonstrated his commitment to academic achievement, securing impressive percentages that reflect his dedication and commitment to his education.</p><table><tr><th>Studying</th><th>College Name</th><th>Percenatge or Grade</th></tr><tr><td>Schooling</td><td>Narayana e-techno Schools</td><td>9.5 Cgpa</td></tr><tr><td>Intermediate</td><td>Narayana Junior College</td><td>88.6%</td></tr><tr><td>B-tech</td><td>VIT-AP University</td><td>8.08 Cgpa *</td></tr></table></div>
+return <div class="vas"><p>PRUDHVEESH CHOWDHARY SURYADEVARA, currently pursuing a Bachelor of Technology (B.Tech) at VIT-AP University, is a diligent scholar on a path of continuous learning and growth. His academic journey has been marked by excellence, having completed his intermediate education at Chaitanya Junior College, and earlier, his secondary education at DR.KKRs Samvidha vidhya peeth School. In these endeavors, Prudhveesh consistently demonstrated his commitment to academic achievement, securing impressive percentages that reflect his dedication and commitment to his education.</p><table><tr><th>Studying</th><th>College Name</th>DR.KKRs Samvidha vidhya peeth School<th>Percenatge or Grade</th></tr><tr><td>Schooling</td><td></td><td>9.5 Cgpa</td></tr><tr><td>Intermediate</td><td>Chaitanya Junior College</td><td>88.6%</td></tr><tr><td>B-tech</td><td>VIT-AP University</td><td>8.08 Cgpa *</td></tr></table></div>
 }
 export function Blog()
 {
